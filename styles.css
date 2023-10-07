@@ -20,12 +20,12 @@ header, footer{
 	min-height:20vh;
 	
 }
-.aside{
+aside{
 	background-color: beige;
 	padding: 1em;
 		
 }
-.article{
+article{
 	padding: 1em;
 	min-height: 60vh;
 }
