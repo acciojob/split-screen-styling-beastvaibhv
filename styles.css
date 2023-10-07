@@ -5,7 +5,7 @@
 	
 	
 }
-.nav{
+nav{
 	background-color: #D7E8D4;
 	padding: 1em;
 }
@@ -14,7 +14,7 @@
 	display:grid;
 	grid-template-columns: 3fr 1fr;
 }
-.header, .footer{
+header, footer{
 	background-color:yellowgreen;
 	padding: 1em;
 	min-height:20vh;
